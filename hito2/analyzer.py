@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.io import wavfile
 
-def analizar_espectro(archivo):
+def analizar_espectro(archivo):  # analiza el espectro de un archivo WAV 
     fs, data = wavfile.read(archivo)
     data = data.flatten()
     N = len(data)

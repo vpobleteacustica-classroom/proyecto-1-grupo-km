@@ -1,0 +1,24 @@
+DRL
+DL
+RL
+Redes neuronales- visualizacion
+
+base de datos= data sets
+
+
+data set interesante = instrumento, humedales
+
+IA Reconocimiento pajaros
+
+
+ademas: 
+- generar objetivos
+- limitaciones
+- conclusiones
+- polifonia
+- dejar mas visual
+- generar ventana para interaccion 
+- generar presentación con las cosas listas y cargadas o probadas
+- describir el data set: como se divide 
+- estructurar presentación y objetivos
+para el 24 de noviembre
