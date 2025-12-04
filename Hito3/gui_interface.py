@@ -126,7 +126,7 @@ class InstrumentClassifierGUI:
         self.duration_var = tk.IntVar(value=7)
         duration_spinbox = tk.Spinbox(duration_frame,
                                       from_=3,
-                                      to=15,
+                                      to=10,
                                       textvariable=self.duration_var,
                                       width=10,
                                       font=('Arial', 10))

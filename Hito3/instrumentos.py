@@ -34,6 +34,7 @@ INSTRUMENTOS_VALIDOS = {
     "Banjo",
     "Mandolin",
     "Ukulele",
+    "Bird",
     # ...puedes agregar más aquí si lo deseas
 }
 
